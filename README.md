@@ -11,4 +11,6 @@ In order to run the game you need to install the following software on your comp
 3. Use the following run and compile line : "ant run"
 # How To Play
 Use the left and right arrow keys to move the paddle. Your goal is to hit all the blocks with the balls and progress to the next level. The game has four levels in total. Good luck!
+#
+![Levels](levels.png)
 
